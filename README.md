@@ -97,5 +97,3 @@ GitHub is a cloud platform to host Git repositories and enables:
 - Explore [GitHub Docs](https://docs.github.com).  
 
 ---
-
-Place this content in your GitHub repository's **README.md** file for easy access and sharing. It’s concise and covers the essentials! 
